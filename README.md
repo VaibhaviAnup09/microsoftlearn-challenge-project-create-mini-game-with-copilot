@@ -1,3 +1,4 @@
+# Challenge project - Build a minigame with GitHub Copilot and Python
 Objective: Developed a console minigame logic in Python using GitHub Codespaces and GitHub Copilot.
 
 Features:
